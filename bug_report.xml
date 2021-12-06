@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bug report>
+<bug id>12331Vr</bug id>
+<reported by>VL</reported by>
+<topic>do not see price changes in safari browser when u oprn tools bar</topic>
+<priority>minor</priority>
+ <steps tp reproduce>open main page than open tools bar on safari br</steps of reproduce>
+ <actual result>do not see price changes</actual result>
+  <expected result>good looking page when it minimize</expected result>
+  <browser>safari</browser>
+  <url>go.varus.com.ua</url>
+  </bug report>
